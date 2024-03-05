@@ -1,16 +1,16 @@
 {
-  "id": "did:web:hello0827.github.io:did-web-demo",
+  "id": "did:web:hello0827.github.io:did-web-demo-2",
   "assertionMethod": [
     {
-      "id": "did:web:hello0827.github.io:did-web-demo#fe53225e67725ffa3c04334fa1ae3c74f30199ed49e9e3d0fc9a89b7336f1b72",
+      "id": "did:web:hello0827.github.io:did-web-demo-2#03ee13b1ce888893ccce9008f510290c227bdf6b2ecef429c6bd8285acf9f3b2",
       "type": "JsonWebKey2020",
-      "controller": "did:web:hello0827.github.io:did-web-demo",
+      "controller": "did:web:hello0827.github.io:did-web-demo-2",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-384",
-        "x": "RTZA_jfOUu34Zx-GncKqol0AgHHJ-vUWl-fdD5IE2N30atbAomDKLTVLPbZphEqa",
-        "y": "rv8k149aLaKXgL_hbK_-eACFg6noMBLSpB5e46qG7C-H6QPDzUrK_oOoHbQk2XiJ",
-        "kid": "#fe53225e67725ffa3c04334fa1ae3c74f30199ed49e9e3d0fc9a89b7336f1b72",
+        "x": "xS-lhqPaiYk5L_Cv1PDpBLyILD1u1z0VMVpY8cGosdBpotbydNaaJGq4HOxkw1BX",
+        "y": "mQcyM2emDEI2e7Sgqg2GAhh0pWj5NotGTjmVOMTZLIqbxv3tZPvIzJOgv3UkWrPp",
+        "kid": "#03ee13b1ce888893ccce9008f510290c227bdf6b2ecef429c6bd8285acf9f3b2",
         "alg": "ES384"
       }
     }
